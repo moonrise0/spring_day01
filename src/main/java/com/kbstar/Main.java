@@ -7,6 +7,8 @@ public class Main {
         
         System.out.printf("Hello and welcome!");
           int a = 10;
+          int b = 20;
+          Service service = new Service();
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
